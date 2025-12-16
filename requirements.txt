@@ -1,0 +1,21 @@
+# Add project dependencies here
+# Example:
+# numpy
+# pandas
+pandas 
+mlflow
+notebook
+numpy
+scikit-learn
+matplotlib
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+Flask
+Flask-Cors
+ipykernel
+python-box
+ensure
